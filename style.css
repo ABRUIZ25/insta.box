@@ -1,0 +1,76 @@
+* {
+    padding: 0;
+    margin: 0;
+    vertical-align: top;
+    box-sizing: border-box;
+    outline:  1px;
+    
+}
+
+.logo {padding-right: 50px;
+padding-bottom: 50px;
+}
+
+
+.fluf { padding: 25px;
+ 
+    display: flex;
+    flex-direction: column;
+    flex-wrap: wrap;
+    justify-content: center;
+
+}
+.insta{padding: 10px;
+padding-top: 10px}
+
+.top {display: flex;
+justify-content: space-evenly;
+padding-top: 25px;
+font-size: 25px;}
+
+
+
+
+
+
+.bottom{
+display: flex ;
+flex-direction: row;
+padding-top: 50px;
+justify-content: right;
+justify-content: space-evenly;
+
+}
+
+
+.one{ padding-left: 20px;
+    padding-right: 20px;}
+
+ .two{ padding-left: 20px;
+    padding-right: 20px;}
+
+.three{ padding-left: 20px;
+    padding-right: 20px;}
+
+.four{ padding-left: 20px;
+    padding-right: 20px;}
+                
+.five{ padding-left: 20px;
+    padding-right: 20px;}
+
+.six{ padding-left: 20px;
+    padding-right: 20px;}
+    
+    
+    .bottom-text{
+        
+        display: flex;
+        flex-direction: row;
+        font-size: 20px;
+        justify-content: right;
+        justify-content:space-around;
+        padding-top: 10px;
+        padding-right: px;
+        
+
+    }
